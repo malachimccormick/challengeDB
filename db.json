@@ -1,0 +1,12 @@
+{
+  "companys": [
+    {
+       "id": 1,
+       "status": "Researching",
+       "companyinfo": "Apple",
+       "contacts": "Tim Cook",
+       "email": "Tcook@Apple.com",
+       "performance": "Best"
+    }
+  ]
+}
