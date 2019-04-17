@@ -1,11 +1,51 @@
 {
-  "companys": [
+  "company": [
     {
        "id": 1,
        "status": "Researching",
        "companyinfo": "Apple",
-       "contacts": "Tim Cook",
+       "contacts": "Tim Apple",
        "email": "Tcook@Apple.com",
+       "performance": "Best"
+    },
+    {
+       "id": 2,
+       "status": "Pending Approval",
+       "companyinfo": "Microsoft",
+       "contacts": "Bill Micro",
+       "email": "BMicrok@Microsoft.com",
+       "performance": "Good"
+    },
+    {
+       "id": 3,
+       "status": "Declined",
+       "companyinfo": "Instagram",
+       "contacts": "Bill Nye",
+       "email": "BNye@Instagram.com",
+       "performance": "Better"
+    },
+    {
+       "id": 4,
+       "status": "approved",
+       "companyinfo": "FaceBook",
+       "contacts": "Ms Frizzle",
+       "email": "Frizzle@FaceBook.com",
+       "performance": "Best"
+    },
+    {
+       "id": 1,
+       "status": "Researching",
+       "companyinfo": "SnapChat",
+       "contacts": "G Host",
+       "email": "GHost@SnapChat.com",
+       "performance": "Good"
+    },
+    {
+       "id": 5,
+       "status": "declined",
+       "companyinfo": "Finsta",
+       "contacts": "Jose Conseco",
+       "email": "JConseco@Apple.com",
        "performance": "Best"
     }
   ]
